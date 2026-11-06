@@ -6,3 +6,5 @@ Fertiger Master (1080×1920, ~61 s), veröffentlicht 2026-11-06.
 - **Datei:** `finance-gta6-ttwo-v2_1080x1920.mp4`
 - **SHA-256:** siehe `CHECKSUMS.txt`
 - Workspace-Backup: `/workspace/_secure_backup/finance-gta6-ttwo-v2/`
+
+Zusätzlicher Commit-Pfad (Vollvideo im Tree): `finance/2026-11-06_gta6-ttwo/master_1080x1920.mp4`
