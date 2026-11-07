@@ -1,0 +1,2 @@
+SHA256 (biz-dac7-plattform-v1 master):
+528347e91fead6c6f1f82e9a3009cc8f157cd3bc2a68494288c61f394d349b45  biz-dac7-plattform-v1_1080x1920.mp4
